@@ -1,5 +1,10 @@
 # Spring-Boot-REST-API
 
-Required Installations:
-Postman
-SQL Workbench
+
+## Required Installations:
+
+<!-- toc -->
+- Postman
+- SQL Workbench
+<!-- tocstop -->
+
